@@ -1,0 +1,31 @@
+Carbonara
+
+Nume: Carbonara
+Categorie: Paste
+Ingrediente: Penne în sos alb de smântână și usturoi, bacon, Mozzarella, Parmezan.
+Gramaj: 390 g
+Pret: 27.5 lei
+Imagine:
+
+----------------------------------------------------------
+
+Penne Bolognese
+
+Nume: Penne Bolognese
+Categorie: Paste
+Ingrediente: Penne în sos ragù, cubulețe cu carne de vită, Mozzarella.
+Gramaj: 420 g
+Pret: 27.5 lei
+Imagine:
+
+----------------------------------------------------------
+
+
+Penne Tomato Veggie
+
+Nume: Penne Tomato Veggie
+Categorie: Paste
+Ingrediente: Penne în sos de roșii, ciuperci, roșii Cherry, Parmezan.
+Gramaj: 360 g
+Pret: 27.5 lei
+Imagine:

@@ -1,0 +1,52 @@
+Pizza Margherita
+
+Nume: Pizza Margherita
+Categorie: Pizza
+Ingrediente: Sos de roșii și Mozzarella.
+Gramaj: 540 g
+Pret: 28 lei
+Imagine:
+
+----------------------------------------------------------
+
+Pizza Pepperoni
+
+Nume: Pizza Pepperoni
+Categorie: Pizza
+Ingrediente: Sos de roșii, Mozzarella, dublu salam Pepperoni.
+Gramaj: 610 g
+Pret: 38 lei
+Imagine:
+
+----------------------------------------------------------
+
+Pizza American Spicy
+
+Nume: Pizza American Spicy
+Categorie: Pizza
+Ingrediente: Sos de roșii, Mozzarella, salam Pepperoni, roșii cubulețe, ardei capia, ceapă roșie, jalapeños, sos Samourai (produs picant).
+Gramaj: 680 g
+Pret: 38 lei
+Imagine:
+
+----------------------------------------------------------
+
+Pizza Quattro Formaggi
+
+Nume: Pizza Quattro Formaggi
+Categorie: Pizza
+Ingrediente: Mozzarella, Cheddar, Emmentaler, brânză cu mucegai, oregano.
+Gramaj: 650 g
+Pret: 42.5 lei
+Imagine:
+
+----------------------------------------------------------
+
+Pizza Meat Lovers
+
+Nume: Pizza Meat Lovers
+Categorie: Pizza
+Ingrediente: Sos de roșii, Mozzarella, piept de pui, cubulețe cu carne de vită, salam Pepperoni, bacon.
+Gramaj: 670 g
+Pret: 42.5 lei
+Imagine:

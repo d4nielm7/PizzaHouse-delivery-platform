@@ -1,0 +1,5 @@
+Toate bauturile nonalcoolice au un gramaj de 500ml.
+
+-------------------------------------------------------------
+
+Toate bauturile alcoolice au un gramaj de 330ml.
